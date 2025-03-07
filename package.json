@@ -1,6 +1,6 @@
 {
   "name": "simple-react-toast-notifications-s-k",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "private": false,
   "type": "module",
   "main": "src/main.js",
