@@ -1,0 +1,47 @@
+{
+  "name": "simple-react-toast-notifications-s-k",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "vite": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sahil9818336328/React-Toast-Notifications"
+  },
+  "keywords": [
+    "react",
+    "toast",
+    "notification",
+    "react-toast-notifications",
+    "react-toast"
+  ],
+  "author": "Sahil Khatri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sahil9818336328/React-Toast-Notifications/issues"
+  },
+  "homepage": "https://www.notion.so/React-Toast-Notifications-1af9833b839880d3a108e8d4a17fae01?pvs=12"
+}
